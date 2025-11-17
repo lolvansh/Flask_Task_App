@@ -6,7 +6,7 @@ from flask_sqlalchemy import SQLAlchemy
 
 #my app
 app = Flask(__name__)
-
+Scss(app)
 
 @app.route("/")
 def index():
