@@ -9,3 +9,4 @@ Simple Flask To-Do application that supports Create, Read, Edit, and Delete (CRE
 * Edit and delete tasks
 * Minimal, responsive UI (SCSS provided)
 
+![Image preview](/assests/image.png)
