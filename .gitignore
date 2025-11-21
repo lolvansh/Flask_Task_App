@@ -37,6 +37,12 @@ coverage.xml
 .idea/
 .vscode
 
+
+instance/database.db
+instance
+database.db
+/database.db
+
 # OS-specific files
 .DS_Store
 Thumbs.db
